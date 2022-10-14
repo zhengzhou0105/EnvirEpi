@@ -1,0 +1,7 @@
+Characterize uncertainty when dose or exposure is reported as censored intervals
+
+Supervisor: Dr. Jacqueline Gibson from Department of Civil, Construction, and Environmental Engineering at North Carolina State University
+
+The uncertainty is characterized as probabilistic distribution.
+Distributional parameters are estimated using maximum likelihood estimation.
+Estimated parameters are used to simulate data points from truncated distributions.
